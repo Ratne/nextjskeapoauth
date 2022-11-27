@@ -6,7 +6,8 @@ First run
 npm run i
 ```
 
-Then create a .env.local file with the following variables, take infusionsales id and secret from developer space on keap developer portal
+Then create a .env.local file with the following variables, take infusionsoft_id and secret from developer account
+on keap developer portal
 
 ```bash
 INFUSIONSOFT_ID=XXXXXX
